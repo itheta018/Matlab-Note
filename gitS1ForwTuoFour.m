@@ -1,3 +1,5 @@
+%%%% Feedback Nash equilibria
+%%%% Non-Cooperative Linear-Quadratic Differential Games 
 clear;clc;close all;
 clear all
 close all
